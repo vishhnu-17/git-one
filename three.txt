@@ -1,4 +1,2 @@
 hello this is 3.txt
 2nd update in 3.txt
-
-introducing bug
